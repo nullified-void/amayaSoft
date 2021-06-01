@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlasLetters
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+    - {fileID: 2800000, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+    - {fileID: 2800000, guid: ca94f4baf75f19e40b03412cea4632d1, type: 3}
+    totalSpriteSurfaceArea: 1964469
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 5659864155170350817, guid: ca94f4baf75f19e40b03412cea4632d1, type: 3}
+  - {fileID: 8219710859190796537, guid: ca94f4baf75f19e40b03412cea4632d1, type: 3}
+  - {fileID: -2756605603065543306, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 3295844289267200183, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: -5901097786099144959, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 4963718625464178563, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 3234300448368640894, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 7783457984840754399, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 4652326554734856401, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 7911670913450602933, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 216406037199867053, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: -6426668015567183463, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: -3541686595128163680, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: -8235857483100294123, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: -1127063002332224934, guid: 48a2596dc15c4e048a48996d819bd898, type: 3}
+  - {fileID: 8691579371319100279, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 3117607532310387347, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: -3366785853549807239, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 5136845570205167690, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 472565849121043000, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 7522063862724211172, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 6404905864202716970, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: 3430741341098760662, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: -7133459761497570541, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: -7667750391289588559, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  - {fileID: -3164452782123274807, guid: 07c68e9d539cd7344a3498a68a73ff50, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite_Y
+  - sprite_Z
+  - sprite_J
+  - sprite_M
+  - sprite_L
+  - sprite_A
+  - sprite_C
+  - sprite_B
+  - sprite_E
+  - sprite_D
+  - sprite_G
+  - sprite_F
+  - sprite_I
+  - sprite_H
+  - sprite_K
+  - sprite_O
+  - sprite_N
+  - sprite_X
+  - sprite_Q
+  - sprite_P
+  - sprite_S
+  - sprite_R
+  - sprite_U
+  - sprite_T
+  - sprite_W
+  - sprite_V
+  m_Tag: SpriteAtlasLetters
+  m_IsVariant: 0
